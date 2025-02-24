@@ -1,0 +1,2 @@
+/Users/macbookpro/StudioProjects/flame_game/android/app/.cxx/RelWithDebInfo/295e485u/x86/CMakeFiles/edit_cache.dir
+/Users/macbookpro/StudioProjects/flame_game/android/app/.cxx/RelWithDebInfo/295e485u/x86/CMakeFiles/rebuild_cache.dir

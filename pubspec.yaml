@@ -1,0 +1,47 @@
+name: flame_game
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  flame: ^1.23.0
+  rflutter_alert: ^2.0.7
+  material_design_icons_flutter: ^7.0.7296
+  sqflite: ^2.3.0
+  path: ^1.8.3
+  flutter_spinkit: ^5.2.0
+  date_format: ^2.0.7
+  flame_audio: ^2.11.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.14.3
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images.jpeg"
+  min_sdk_android: 24
+  adaptive_icon_background_color: "#ffffff"
+  adaptive_icon_foreground: "assets/images.jpeg"
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/audio/
+    - assets/

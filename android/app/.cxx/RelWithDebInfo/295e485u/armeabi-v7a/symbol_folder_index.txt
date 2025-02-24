@@ -1,0 +1,1 @@
+/Users/macbookpro/StudioProjects/flame_game/build/app/intermediates/cxx/RelWithDebInfo/295e485u/obj/armeabi-v7a
